@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\rpavi\\Downloads\\Test\\project\\Backend\\logs\\.22b725897e3bcee579b5eacc775f3e0ea255232c-audit.json",
+    "files": [
+        {
+            "date": 1754759469841,
+            "name": "C:\\Users\\rpavi\\Downloads\\Test\\project\\Backend\\logs\\error-2025-08-09.log",
+            "hash": "1341a01ed568f810268add99a5731bae87a0189987c5bd0091c16ee0248c0f18"
+        },
+        {
+            "date": 1754805443945,
+            "name": "C:\\Users\\rpavi\\Downloads\\Test\\project\\Backend\\logs\\error-2025-08-10.log",
+            "hash": "843a4594af7834b8ea63bf7b53ab636e5707438d96fa6b99d9c47581a8cf6f2c"
+        },
+        {
+            "date": 1754886396613,
+            "name": "C:\\Users\\rpavi\\Downloads\\Test\\project\\Backend\\logs\\error-2025-08-11.log",
+            "hash": "d0a5c722df4cd06b0bb5176ff0709eeae8dc0d7f2edf35cbb8093b875ca3b7b5"
+        }
+    ],
+    "hashType": "sha256"
+}
